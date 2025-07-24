@@ -56,8 +56,8 @@ This project is a **machine learning regression pipeline** to predict California
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/house-price-xgboost.git
-cd house-price-xgboost
+git clone https://github.com/codewithyasho/california-house-price-predictor.git
+cd california-house-price-predictor
 ```
 
 ### 2. Install dependencies
@@ -74,15 +74,11 @@ streamlit run app.py
 
 ## 📷 Screenshot
 ![app-screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot)
+<img width="1494" height="949" alt="image" src="https://github.com/user-attachments/assets/bd1f0546-e35a-4720-9fb8-de372ecb3cdf" />
 
 ---
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Yashodeep (codewithyasho)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
