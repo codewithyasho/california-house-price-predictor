@@ -72,6 +72,11 @@ streamlit run app.py
 
 ---
 
+## Use app now
+https://california-house-price-predictor-exhe3gmfg739ravoq2p3p3.streamlit.app/
+
+---
+
 ## 📷 Screenshot
 
 <img width="1494" height="949" alt="image" src="https://github.com/user-attachments/assets/bd1f0546-e35a-4720-9fb8-de372ecb3cdf" />
