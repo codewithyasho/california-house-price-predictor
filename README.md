@@ -73,7 +73,7 @@ streamlit run app.py
 ---
 
 ## 📷 Screenshot
-![app-screenshot](https://via.placeholder.com/800x400.png?text=Streamlit+App+Screenshot)
+
 <img width="1494" height="949" alt="image" src="https://github.com/user-attachments/assets/bd1f0546-e35a-4720-9fb8-de372ecb3cdf" />
 
 ---
